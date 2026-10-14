@@ -23,4 +23,5 @@ Device-Free Human Activity Recognition using Wi-Fi CSI and ESP32-S3.
 
 ## Pipeline
 
-ESP32-S3 → Wi-Fi CSI → Python preprocessing → Feature extraction → ML model → Real-time dashboard
+ESP32-S3 → Wi-Fi CSI → Python preprocessing → Feature extraction → ML model → Real-time dashboard for viewing
+
